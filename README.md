@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mounika Ankeswarapu
+- 🌱 Working as an iOS App Developer
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning iOS App Development 
 - 💞️ I’m looking to collaborate on UIKit,swift UI framework and iOS development 
 - 📫 Contact me : mounika.ankeswarapu@gmail.com
 
